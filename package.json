@@ -1,0 +1,17 @@
+{
+  "name": "language-php-no-dollar-highlight",
+  "version": "0.1.0",
+  "description": "Disable $ dollar Highlighting for PHP $variables",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/entozoon/atom-language-php-no-dollar-highlight.git"
+  },
+  "bugs": {
+    "url": "https://github.com/entozoon/atom-language-php-no-dollar-highlight/issues"
+  },
+  "license": "MIT"
+}
